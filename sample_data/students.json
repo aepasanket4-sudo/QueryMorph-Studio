@@ -1,0 +1,7 @@
+[
+  {"student_id": 101, "name": "Alice Johnson", "school_id": 1, "major": "Computer Science", "gpa": 3.85, "status": "Active"},
+  {"student_id": 102, "name": "Bob Smith", "school_id": 2, "major": "Economics", "gpa": 3.40, "status": "Active"},
+  {"student_id": 103, "name": "Charlie Davis", "school_id": 1, "major": "Mathematics", "gpa": 3.90, "status": "Graduated"},
+  {"student_id": 104, "name": "Diana Prince", "school_id": 3, "major": "Physics", "gpa": 3.75, "status": "Active"},
+  {"student_id": 105, "name": "Evan Wright", "school_id": 4, "major": "Business", "gpa": 2.95, "status": "Probation"}
+]
