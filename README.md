@@ -1,6 +1,11 @@
 # ⚡ QueryMorph Studio
 ### The Universal Conversational Data Engine & Autonomous CRUD Workspace
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://querymorph-studio.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/aepasanket4-sudo/QueryMorph-Studio)
+
+> 🚀 **Live Demo:** Access the live application directly in your browser at **[https://querymorph-studio.streamlit.app/](https://querymorph-studio.streamlit.app/)**
+
 A modular AI-powered system that ingests **CSV, Excel (.xlsx, .xls), and JSON** files into an in-memory SQL relational database and performs **any SQL query, analytical join, or CRUD mutation** using **Natural Language**.
 
 ---
@@ -61,6 +66,12 @@ python app.py --provider groq --interactive
 ```
 
 ### 2. Launch the Web Studio (`dashboard.py`)
+
+#### Option A: Instant Live Web App
+Access the deployed cloud studio without local setup:  
+👉 **[https://querymorph-studio.streamlit.app/](https://querymorph-studio.streamlit.app/)**
+
+#### Option B: Run Locally
 ```bash
 streamlit run dashboard.py
 ```
